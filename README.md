@@ -1,2 +1,2 @@
-# WIP / dropped
+# Dropped project
 
